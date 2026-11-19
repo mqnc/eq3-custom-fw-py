@@ -9,7 +9,7 @@ I thought since I already used fresh water and polluted the world for this with 
 
 I recommend using the [original app](https://github.com/dbuezas/eq3-custom-fw) for testing and setting keys and everything and then playing with this python client.
 
-For encrypted communication, create a file named `key.txt` and store the 32 character key in it. It must be the same key for all your thermostats.
+For encrypted communication, create a file named `key.txt`, store the 32 character key in it and store it next to `eq3.py`. It must be the same key for all your thermostats.
 
 `eq3.py` can be used both as a module and as a CLI app.
 
