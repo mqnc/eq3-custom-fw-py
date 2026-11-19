@@ -7,7 +7,7 @@ Given that the communication protocol is [very well documented](https://github.c
 
 I thought since I already used fresh water and polluted the world for this with CO2 and noise, I might as well publish it so other people can try if it works for them or use it as a starting point for slopping on top of it.
 
-I recommend using the [original app](https://github.com/dbuezas/eq3-custom-fw) for testing and setting keys and everything and then playing with this python client.
+I recommend using the [original app](https://github.com/dbuezas/eq3-custom-fw) for installing the custom firmware on the thermostats, testing and setting keys and everything and then playing with this python client.
 
 For encrypted communication, create a file named `key.txt`, store the 32 character key in it and store it next to `eq3.py`. It must be the same key for all your thermostats.
 
